@@ -1,0 +1,7 @@
+fakt = input('Kas lennukikütus suudab terast sulatada?: ')
+
+if fakt == 'Jah' or 'jah':
+    print("True")
+
+else:
+    print("False")
