@@ -1,0 +1,4 @@
+esimene = input("Sisesta esimene arv: ")
+teine = input("Sisesta teine arv: ")
+
+print('Hello World!')
